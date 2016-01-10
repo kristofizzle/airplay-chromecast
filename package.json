@@ -26,7 +26,7 @@
     "lame": "^1.2.3",
     "macaddress": "^0.2.8",
     "mdns": "^2.2.10",
-    "nodetunes": "git@github.com:microadam/nodetunes.git#master",
+    "nodetunes": "git+https://github.com/microadam/nodetunes.git#master",
     "portastic": "git+https://github.com/kylewelsby/node-portastic.git",
     "rsvp": "^3.1.0"
   },
